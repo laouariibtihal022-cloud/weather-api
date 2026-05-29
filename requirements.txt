@@ -1,5 +1,5 @@
 flask
 gunicorn
 numpy
-tensorflow
+tensorflow-cpu==2.13.0
 joblib
